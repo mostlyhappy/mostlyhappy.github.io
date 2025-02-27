@@ -1,0 +1,34 @@
+iframe {
+  	display: block;
+  	margin-left: auto;
+	margin-right: auto;
+	object-fit: contain;
+}
+
+body {
+	background-color: #F9F1F2
+}
+
+h3 {
+	color: #364144
+}
+
+h4 {
+	color: #364144
+}
+
+b {
+	color: #364144
+}
+
+a {
+	color: #A36682
+}
+
+a:visited {
+	color: #54527A
+}
+
+p {
+	color: #495D63
+}

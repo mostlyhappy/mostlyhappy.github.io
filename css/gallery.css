@@ -1,0 +1,40 @@
+img {
+  	display: block;
+  	margin-left: auto;
+	margin-right: auto;
+	width: 60%;
+	height: 60%;
+	object-fit: contain;
+}
+
+body {
+	background-color: #F9F1F2
+}
+
+h3 {
+	text-align: center;
+	color: #364144
+}
+
+h4 {
+	color: #364144
+}
+
+b {
+	color: #364144
+}
+
+a {
+	text-align: center;
+	color: #A36682
+}
+
+a:visited {
+	text-align: center;
+	color: #54527A
+}
+
+p {
+	text-align: center;
+	color: #495D63
+}
